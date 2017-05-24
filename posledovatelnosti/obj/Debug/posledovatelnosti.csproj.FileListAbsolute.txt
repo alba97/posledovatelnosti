@@ -1,0 +1,9 @@
+d:\мои документы\visual studio 2012\Projects\posledovatelnosti\posledovatelnosti\bin\Debug\posledovatelnosti.exe.config
+d:\мои документы\visual studio 2012\Projects\posledovatelnosti\posledovatelnosti\bin\Debug\posledovatelnosti.exe
+d:\мои документы\visual studio 2012\Projects\posledovatelnosti\posledovatelnosti\bin\Debug\posledovatelnosti.pdb
+d:\мои документы\visual studio 2012\Projects\posledovatelnosti\posledovatelnosti\obj\Debug\posledovatelnosti.csprojResolveAssemblyReference.cache
+d:\мои документы\visual studio 2012\Projects\posledovatelnosti\posledovatelnosti\obj\Debug\posledovatelnosti.exe
+d:\мои документы\visual studio 2012\Projects\posledovatelnosti\posledovatelnosti\obj\Debug\posledovatelnosti.pdb
+E:\posledovatelnosti\posledovatelnosti\bin\Debug\posledovatelnosti.exe.config
+E:\posledovatelnosti\posledovatelnosti\obj\Debug\posledovatelnosti.exe
+E:\posledovatelnosti\posledovatelnosti\obj\Debug\posledovatelnosti.pdb
